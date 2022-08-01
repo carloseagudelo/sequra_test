@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: shopper test one
+  email: stestone@test.com
+  nif: C0000001
+
+two:
+  name: shopper test two
+  email: stesttwo@test.com
+  nif: C0000002

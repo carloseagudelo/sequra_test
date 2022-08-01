@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  merchant: one
+  shopper: one
+  amount: 99.8
+  completed_at: 2022-07-20 14:40:05
+
+two:
+  merchant: two
+  shopper: two
+  amount: 100.5
+  completed_at: 2022-07-20 14:40:05
+
+without_disbursement:
+  merchant: one
+  shopper: two
+  amount: 100.5
+  completed_at: 2022-07-20 14:40:05

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: prueba one
+  email: pruebaone@prueba.com
+  cif: A000001
+
+two:
+  name: prueba two
+  email: pruebatwo@prueba.com
+  cif: A000002
+
+merchant_without_order:
+  name: test without order
+  email: withoutorder@prueba.com
+  cif: A0000010
+
